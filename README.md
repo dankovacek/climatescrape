@@ -1,10 +1,10 @@
 # EC Climate Data Scraper
 
 A python script for pulling climate data from archived data from
-Environment Canada.  
+Environment Canada (http://climate.weather.gc.ca).  
 
 ### Environment, Dependencies
-Python 3.[4, 5, 6].  Python 3.6 is only version verified.
+Python 3.[4, 5, 6].  Python 3.5 is only version verified.
 
 For packages, see requirements.txt.  The only unusual package is utm,
 but it can be worked around without too much trouble.  
